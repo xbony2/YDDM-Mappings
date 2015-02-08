@@ -24,12 +24,16 @@ Tools I'm using:
 
 * YToolKit. Yes, that's in this repository.
 
+All of these work on OS X. That's because I use OS X. Some of them might now work on Windows, but most applications have Windows variations.
+
 # References
 Various online information:
 
 * A [Youtube Playlist](https://www.youtube.com/playlist?list=PL1vmMaXuw_tW4HJ2zMBD6ssH-CABg3sT8) with a few good videos on ROM Hacking.
 
 * [Data Crystals Wiki](http://datacrystal.romhacking.net/wiki/Introduction_to_Hacking).
+
+* [Techy Information on the GBA](http://www.romhacking.net/documents/228/)
 
 On YDDM hacking in particular:
 
