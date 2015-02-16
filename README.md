@@ -24,7 +24,11 @@ Tools I'm using:
 
 * YToolKit. Yes, that's in this repository.
 
-All of these work on OS X. That's because I use OS X. Some of them might now work on Windows, but most applications have Windows variations.
+* Wine. This is for OS X and Linux computers to be able to run Windows programs. Works about half the time.
+
+* GBATA. Adds a bunch of cool GBA tools.
+
+All of these work on OS X. That's because I personally use OS X. Windows stuff might work.
 
 # References
 Various online information:
